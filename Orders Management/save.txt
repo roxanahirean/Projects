@@ -1,0 +1,2 @@
+OrderID=0, IDProduct=1, IDClient=1, price=13, amount=1OrderID=1, IDProduct=1, IDClient=1, price=13, amount=1OrderID=2, IDProduct=8, IDClient=1, price=8, amount=2OrderID=3, IDProduct=1, IDClient=1, price=13, amount=1OrderID=4, IDProduct=1, IDClient=1, price=13, amount=1OrderID=5, IDProduct=21, IDClient=1, price=80, amount=2
+OrderID=6, IDProduct=21, IDClient=1, price=80, amount=2
